@@ -131,7 +131,7 @@ const adUnits = [
       },
     },
     bids: [
-      {
+      /*{
         bidder: "kargo",
         params: {
           placementId: "_fPM3feDxUE",
@@ -394,7 +394,7 @@ const adUnits = [
           placementId: 22983142,
         },
         labelAll: ["auction-1"],
-      },
+      },*/
       {
         bidder: "openx",
         params: {
@@ -473,7 +473,7 @@ const Ads = (function () {
           "ATTR",
         ],
       },
-      s2sConfig: s2sConfg,
+      //s2sConfig: s2sConfg,
       floors: floors,
       userSync: {
         iframeEnabled: true,
