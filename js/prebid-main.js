@@ -1,15 +1,13 @@
 //const gptSlot = "/15686632/Demo_2019_881903_Home_Slot1_Top_LERC";
 const gptSlot = "/15686632/Demo_2019_881903_Search_Slot1_SuperBanner";
-const sizes = [
-  [
+const sizes = [  
     [728, 90],
     [320, 50],
     [970, 90],
     [300, 50],
     [320, 100],
     [468, 60],
-    [1, 1],
-  ],
+    [1, 1],  
 ];
 const floors = {
   floorProvider: "legacy",
