@@ -136,7 +136,7 @@ const adUnits = [
         params: {
           placementId: "_fPM3feDxUE",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "appnexus",
@@ -156,7 +156,7 @@ const adUnits = [
           placementId: 13036401,
           position: "above",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "ix",
@@ -165,7 +165,7 @@ const adUnits = [
           siteId: "185770",
           size: [728, 90],
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "ix",
@@ -174,7 +174,7 @@ const adUnits = [
           siteId: "185770",
           size: [970, 90],
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "ix",
@@ -183,7 +183,7 @@ const adUnits = [
           siteId: "185770",
           size: [320, 50],
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "ix",
@@ -192,7 +192,7 @@ const adUnits = [
           siteId: "185770",
           size: [320, 100],
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "ix",
@@ -201,7 +201,7 @@ const adUnits = [
           siteId: "185770",
           size: [300, 50],
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "yah_ss",
@@ -209,7 +209,7 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9691d801888852d23d6cdc9b7e0027",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "yah_ss",
@@ -217,7 +217,7 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9695b901888852d78e6cdc9fb40039",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "yah_ss",
@@ -225,7 +225,7 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9691d801888852d23d6cdc9f220029",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "yahoossp",
@@ -233,7 +233,7 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a9694d00177771bcae21c6a7d880025",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "yahoossp",
@@ -241,7 +241,7 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a969d580177771bc13c2046cd280081",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "yahoossp",
@@ -249,21 +249,21 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a9694d00177771bcae2204408520056",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "triplelift",
         params: {
           inventoryCode: "adthrive_footer_1_hdx",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "tripl_ss",
         params: {
           inventoryCode: "adthrive_footer_1_hdx_pbs2s",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "pubmatic",
@@ -272,7 +272,7 @@ const adUnits = [
           adSlot: "Footer1@728x90",
           pmzoneid: "alc,gamv",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "pubm_ss",
@@ -281,7 +281,7 @@ const adUnits = [
           adSlot: "Footer1_XandrS2S@728x90",
           pmzoneid: "alc,gamv",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "ttd",
@@ -291,7 +291,7 @@ const adUnits = [
           placementId: "AdThrive_Footer_1",
           supplySourceId: "cafemedia",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "teads",
@@ -299,14 +299,14 @@ const adUnits = [
           placementId: 121842,
           pageId: 112062,
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "yieldmo",
         params: {
           placementId: "3457550240226157077",
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "opnx_ss",
@@ -318,7 +318,7 @@ const adUnits = [
             bucket: ["unsupported"],
           },
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "openx",
@@ -330,54 +330,54 @@ const adUnits = [
             bucket: ["unsupported"],
           },
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "criteo",
         params: {
           networkId: 3927,
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "grid",
         params: {
           uid: 367,
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "unruly",
         params: {
           siteId: 249232,
         },
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "nativo",
         params: {},
-        labelAll: ["auction-1"],
+        
       },
       {
         bidder: "gumgum",
         params: {
           zone: "g95nznmj",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "gumgum",
         params: {
           zone: "klpfgzhj",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "sharethrough",
         params: {
           pkey: "B1C8tQAkMN7kpCuxh1hW6CY8",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "conversant",
@@ -385,15 +385,14 @@ const adUnits = [
           tag_id: "1b2dec1",
           site_id: "203587",
         },
-        labelAll: ["auction-2"],
+        
       },
       {
         bidder: "improve_ss",
         params: {
           publisherId: 2250,
           placementId: 22983142,
-        },
-        labelAll: ["auction-1"],
+        },        
       },*/
       {
         bidder: "openx",
@@ -401,7 +400,6 @@ const adUnits = [
           unit: "561252893",
           delDomain: "commercialradio-d.openx.net",
         },
-        labelAll: ["auction-1"],
       },
     ],
   },
