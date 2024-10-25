@@ -441,8 +441,8 @@ const Ads = (function () {
           "ATTR",
         ],
       },
-      //s2sConfig: s2sConfg,
-      floors: floors,
+      s2sConfig: s2sConfg,
+      //floors: floors,
       userSync: {
         iframeEnabled: true,
         filterSettings: {
