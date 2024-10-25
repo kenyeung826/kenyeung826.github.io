@@ -1,6 +1,14 @@
 //const gptSlot = "/15686632/Demo_2019_881903_Home_Slot1_Top_LERC";
-const gptSlot = "/15686632/2019_881903_Home_Slot1_Top_LREC_Production";
-const sizes = [[300, 250]];
+const gptSlot = "/15686632/Demo_2019_881903_Search_Slot1_SuperBanner";
+const sizes = [
+  [728, 90],
+  [970, 90],
+  [320, 50],
+  [300, 50],
+  [320, 100],
+  [468, 60],
+  [1, 1],
+];
 const PREBID_TIMEOUT = 5000;
 const adUnits = [
   {
@@ -14,7 +22,7 @@ const adUnits = [
       {
         bidder: "openx",
         params: {
-          unit: "561252927",
+          unit: "561252893",
           delDomain: "commercialradio-d.openx.net",
           customParams: {
             hb_pb_openx: 0,
