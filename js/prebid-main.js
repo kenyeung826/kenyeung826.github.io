@@ -131,12 +131,11 @@ const adUnits = [
       },
     },
     bids: [
-      /*{
+      {
         bidder: "kargo",
         params: {
           placementId: "_fPM3feDxUE",
         },
-        
       },
       {
         bidder: "appnexus",
@@ -156,7 +155,6 @@ const adUnits = [
           placementId: 13036401,
           position: "above",
         },
-        
       },
       {
         bidder: "ix",
@@ -165,7 +163,6 @@ const adUnits = [
           siteId: "185770",
           size: [728, 90],
         },
-        
       },
       {
         bidder: "ix",
@@ -174,7 +171,6 @@ const adUnits = [
           siteId: "185770",
           size: [970, 90],
         },
-        
       },
       {
         bidder: "ix",
@@ -183,7 +179,6 @@ const adUnits = [
           siteId: "185770",
           size: [320, 50],
         },
-        
       },
       {
         bidder: "ix",
@@ -192,7 +187,6 @@ const adUnits = [
           siteId: "185770",
           size: [320, 100],
         },
-        
       },
       {
         bidder: "ix",
@@ -201,7 +195,6 @@ const adUnits = [
           siteId: "185770",
           size: [300, 50],
         },
-        
       },
       {
         bidder: "yah_ss",
@@ -209,7 +202,6 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9691d801888852d23d6cdc9b7e0027",
         },
-        
       },
       {
         bidder: "yah_ss",
@@ -217,7 +209,6 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9695b901888852d78e6cdc9fb40039",
         },
-        
       },
       {
         bidder: "yah_ss",
@@ -225,7 +216,6 @@ const adUnits = [
           dcn: "8a9698af01888852cc626cda97350021",
           pos: "8a9691d801888852d23d6cdc9f220029",
         },
-        
       },
       {
         bidder: "yahoossp",
@@ -233,7 +223,6 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a9694d00177771bcae21c6a7d880025",
         },
-        
       },
       {
         bidder: "yahoossp",
@@ -241,7 +230,6 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a969d580177771bc13c2046cd280081",
         },
-        
       },
       {
         bidder: "yahoossp",
@@ -249,21 +237,18 @@ const adUnits = [
           dcn: "8a9694d00177771bcae21c6941d30023",
           pos: "8a9694d00177771bcae2204408520056",
         },
-        
       },
       {
         bidder: "triplelift",
         params: {
           inventoryCode: "adthrive_footer_1_hdx",
         },
-        
       },
       {
         bidder: "tripl_ss",
         params: {
           inventoryCode: "adthrive_footer_1_hdx_pbs2s",
         },
-        
       },
       {
         bidder: "pubmatic",
@@ -272,7 +257,6 @@ const adUnits = [
           adSlot: "Footer1@728x90",
           pmzoneid: "alc,gamv",
         },
-        
       },
       {
         bidder: "pubm_ss",
@@ -281,7 +265,6 @@ const adUnits = [
           adSlot: "Footer1_XandrS2S@728x90",
           pmzoneid: "alc,gamv",
         },
-        
       },
       {
         bidder: "ttd",
@@ -291,7 +274,6 @@ const adUnits = [
           placementId: "AdThrive_Footer_1",
           supplySourceId: "cafemedia",
         },
-        
       },
       {
         bidder: "teads",
@@ -299,14 +281,12 @@ const adUnits = [
           placementId: 121842,
           pageId: 112062,
         },
-        
       },
       {
         bidder: "yieldmo",
         params: {
           placementId: "3457550240226157077",
         },
-        
       },
       {
         bidder: "opnx_ss",
@@ -318,7 +298,6 @@ const adUnits = [
             bucket: ["unsupported"],
           },
         },
-        
       },
       {
         bidder: "openx",
@@ -330,54 +309,46 @@ const adUnits = [
             bucket: ["unsupported"],
           },
         },
-        
       },
       {
         bidder: "criteo",
         params: {
           networkId: 3927,
         },
-        
       },
       {
         bidder: "grid",
         params: {
           uid: 367,
         },
-        
       },
       {
         bidder: "unruly",
         params: {
           siteId: 249232,
         },
-        
       },
       {
         bidder: "nativo",
         params: {},
-        
       },
       {
         bidder: "gumgum",
         params: {
           zone: "g95nznmj",
         },
-        
       },
       {
         bidder: "gumgum",
         params: {
           zone: "klpfgzhj",
         },
-        
       },
       {
         bidder: "sharethrough",
         params: {
           pkey: "B1C8tQAkMN7kpCuxh1hW6CY8",
         },
-        
       },
       {
         bidder: "conversant",
@@ -385,15 +356,14 @@ const adUnits = [
           tag_id: "1b2dec1",
           site_id: "203587",
         },
-        
       },
       {
         bidder: "improve_ss",
         params: {
           publisherId: 2250,
           placementId: 22983142,
-        },        
-      },*/
+        },
+      },
       {
         bidder: "openx",
         params: {
